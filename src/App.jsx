@@ -22,15 +22,12 @@ function App() {
       <div className="card">
         <h2>Welcome to the GitLab CI/CD world.</h2>
         <p>
-          Dive into the world of continuous integration and continuous delivery (CI/CD) by deploying this simple app with GitLab. Whether you’re a developer, a project manager, or just curious about DevOps practices, this course will guide you through the fundamentals of GitLab CI/CD.
+          Dive into the world of continuous integration and continuous delivery (CI/CD) by deploying this simple app with GitLab.
         </p>
         <p>
-          Hint: Edit <code>src/App.jsx</code> to make chnages to this page.
+          Hint: Edit <code>src/App.jsx</code> to make changes to this page.
         </p>
       </div>
-      <p className="read-the-docs">
-        Created by Valentin Despa. 
-      </p>
       <p className="read-the-docs">
         Application version: 1
       </p>
